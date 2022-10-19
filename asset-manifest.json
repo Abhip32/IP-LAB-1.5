@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/IP-LAB-1.5/static/css/main.7a27db97.css",
-    "main.js": "/IP-LAB-1.5/static/js/main.0dafed47.js",
-    "static/js/787.1ed0c42c.chunk.js": "/IP-LAB-1.5/static/js/787.1ed0c42c.chunk.js",
-    "static/media/blog.png": "/IP-LAB-1.5/static/media/blog.c2a7124c55cff893a325.png",
-    "static/media/codeEditor.png": "/IP-LAB-1.5/static/media/codeEditor.4b19ad30d4851763d439.png",
-    "static/media/suicide.png": "/IP-LAB-1.5/static/media/suicide.44ee68c14e32444e23c2.png",
-    "static/media/emotion.png": "/IP-LAB-1.5/static/media/emotion.1dba82d2cda599d21e45.png",
-    "static/media/leaf.png": "/IP-LAB-1.5/static/media/leaf.8745a6e65e198f63c515.png",
-    "static/media/chatify.png": "/IP-LAB-1.5/static/media/chatify.766edeff6e87fc2b67b4.png",
-    "static/media/random.png": "/IP-LAB-1.5/static/media/random.2495094554beb6049d27.png",
-    "static/media/home-bg.jpg": "/IP-LAB-1.5/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "index.html": "/IP-LAB-1.5/index.html",
-    "main.7a27db97.css.map": "/IP-LAB-1.5/static/css/main.7a27db97.css.map",
-    "main.0dafed47.js.map": "/IP-LAB-1.5/static/js/main.0dafed47.js.map",
-    "787.1ed0c42c.chunk.js.map": "/IP-LAB-1.5/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.7a27db97.css",
+    "main.js": "/static/js/main.9d9f0708.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/blog.png": "/static/media/blog.c2a7124c55cff893a325.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.4b19ad30d4851763d439.png",
+    "static/media/suicide.png": "/static/media/suicide.44ee68c14e32444e23c2.png",
+    "static/media/emotion.png": "/static/media/emotion.1dba82d2cda599d21e45.png",
+    "static/media/leaf.png": "/static/media/leaf.8745a6e65e198f63c515.png",
+    "static/media/chatify.png": "/static/media/chatify.766edeff6e87fc2b67b4.png",
+    "static/media/random.png": "/static/media/random.2495094554beb6049d27.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "index.html": "/index.html",
+    "main.7a27db97.css.map": "/static/css/main.7a27db97.css.map",
+    "main.9d9f0708.js.map": "/static/js/main.9d9f0708.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a27db97.css",
-    "static/js/main.0dafed47.js"
+    "static/js/main.9d9f0708.js"
   ]
 }
