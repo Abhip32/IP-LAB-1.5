@@ -10,7 +10,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" basename={process.env.PUBLIC_URL}>
        <Router>
             <Routes>
               <Route path="/" element={<Home/>} />
